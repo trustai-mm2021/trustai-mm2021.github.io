@@ -72,9 +72,8 @@ In this workshop, we aim to address the trustworthy issues of Multimedia Computi
 
 
 ## Call for Contributions
-<div style="text-align: justify">
+
 We believe the workshop will offer a timely collection of research updates to benefit the people working in the broad fields ranging from multimedia, computer vision to machine learning. To this end, we solicit original research and survey papers addressing the topics listed below (but not limited to):
-</dev>
 - Interpretable AI methods for Multimedia Computing
 - Robustness of Multimedia Computing
 - Security/safety and privacy in Multimedia processing
