@@ -85,10 +85,10 @@ We believe the workshop will offer a timely collection of research updates to be
 - Applications of trustworthy AI for Multimedia, e.g. in medical diagnosis, autonomous driving, defense applications
 
 ## Important dates
-- Paper submission: July 30th, 2021
-- Author Notification: August 26th, 2021
-- Camera-Ready: September 2nd, 2021
-- Workshop: October XX, 2021
+- Paper submission: <strong>July 30th, 2021</strong>
+- Author Notification: <strong>August 26th, 2021</strong>
+- Camera-Ready: <strong>September 2nd, 2021</strong>
+- Workshop: <strong>October XX, 2021</strong>
 
 All deadlines are at midnight(23:59) anywhere on Earth.
 
