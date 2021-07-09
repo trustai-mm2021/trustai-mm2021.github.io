@@ -8,7 +8,7 @@ In this workshop, we aim to address the trustworthy issues of Multimedia Computi
 <div style="display: flex">
   <div style="width:22.5%">
     <a href="https://www.ceessnoek.info/">
-    <img alt="Cees Snoek" src="pics/cees.jpg">
+    <img alt="Cees Snoek" src="pics/cees2.jpg">
     </a><br>
     <a href="https://www.ceessnoek.info/">Cees Snoek</a><br>
     University of Amsterdam
@@ -19,7 +19,7 @@ In this workshop, we aim to address the trustworthy issues of Multimedia Computi
   
   <div style="width:22.5%">
     <a href="https://web.eecs.umich.edu/~kuipers/">
-    <img alt="Benjamin Kuipers" src="pics/benjamin.jpg">
+    <img alt="Benjamin Kuipers" src="pics/benjamin2.jpg">
     </a><br>
   <a href="https://web.eecs.umich.edu/~kuipers/">Benjamin Kuipers</a><br>
     University of Michigan
@@ -41,7 +41,7 @@ In this workshop, we aim to address the trustworthy issues of Multimedia Computi
   
   <div style="width:22.5%">
     <a href="https://ajmalsaeed.net/">
-    <img alt="Ajmal Mian" src="pics/ajmal.png">
+    <img alt="Ajmal Mian" src="pics/ajmal2.png">
     </a><br>
     <a href="https://ajmalsaeed.net/">Ajmal Mian</a><br>
     University of Western Australia
@@ -62,7 +62,7 @@ In this workshop, we aim to address the trustworthy issues of Multimedia Computi
   
   <div style="width:22.5%">
     <a href="https://www.yf.io/">
-    <img alt="Fisher Yu" src="pics/fisher.png">
+    <img alt="Fisher Yu" src="pics/fisher_yu.jpeg">
     </a><br>
   <a href="https://www.yf.io/">Fisher Yu</a><br>
     ETH Zurich
@@ -121,7 +121,7 @@ The accepted workshop papers will be published in the ACM Digital Library.
 <div style="display: flex">
   <div style="width:22.5%">
     <a href="http://people.rennes.inria.fr/Teddy.Furon/website/Welcome.html">
-    <img alt="Teddy Furon" src="pics/teddy.jpeg">
+    <img alt="Teddy Furon" src="pics/teddy2.jpeg">
     </a><br>
     <a href="http://people.rennes.inria.fr/Teddy.Furon/website/Welcome.html">Teddy Furon</a><br>
     INRIA
@@ -132,7 +132,7 @@ The accepted workshop papers will be published in the ACM Digital Library.
   
   <div style="width:22.5%">
     <a href="http://www.cs.ucf.edu/~liujg/">
-    <img alt="Jingen Liu" src="pics/jingen.jpg">
+    <img alt="Jingen Liu" src="pics/jingen2.jpg">
     </a><br>
   <a href="http://www.cs.ucf.edu/~liujg/">Jingen Liu</a><br>
     JD.com 
@@ -147,14 +147,14 @@ The accepted workshop papers will be published in the ACM Digital Library.
     <img alt="Yogesh Rawat" src="pics/rawat.jpg">
     </a><br>
   <a href="https://www.crcv.ucf.edu/person/rawat/">Yogesh Rawat</a><br>
-    University of Central Florida
+    University of Central Florida (UCF)
   </div>
 </div>
 
 <div style="display: flex">
   <div style="width:22.5%">
     <a href="http://wzhang.fun/">
-    <img alt="Wei Zhang" src="pics/wei.jpg">
+    <img alt="Wei Zhang" src="pics/wei2.jpg">
     </a><br>
     <a href="http://wzhang.fun/">Wei Zhang</a><br>
     JD.com
@@ -165,13 +165,22 @@ The accepted workshop papers will be published in the ACM Digital Library.
   
   <div style="width:22.5%">
     <a href="https://www-users.cs.umn.edu/~qzhao/index.html">
-    <img alt="Qi Zhao" src="pics/qi.jpg">
+    <img alt="Qi Zhao" src="pics/qi2.jpg">
     </a><br>
   <a href="https://www-users.cs.umn.edu/~qzhao/index.html">Qi Zhao</a><br>
-    Microsoft Research
+    University of Minnesota (UMN)
   </div>
 
 </div>
+
+## Advisory Board
+
+| --- | --- |
+| Prof. Mohan Kankanhalli | National University of Singapore, Singapore  |
+| Prof. Jiebo Luo | University of Rochester, USA |
+| Dr. Tao Mei | JD.com AI Research, China |
+| Prof. Mubarak Shah | University of Central Florida, USA |
+| Dr. Bowen Zhou | JD.com AI Research, China |
 
 ## Program Committee
 
