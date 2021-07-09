@@ -8,7 +8,7 @@ In this workshop, we aim to address the trustworthy issues of Multimedia Computi
 <div style="display: flex">
   <div style="width:22.5%">
     <a href="https://www.ceessnoek.info/">
-    <img alt="Cees Snoek" src="pics/cess2.jpg">
+    <img alt="Cees Snoek" src="pics/cees_2.jpg">
     </a><br>
     <a href="https://www.ceessnoek.info/">Cees Snoek</a><br>
     University of Amsterdam
