@@ -117,7 +117,7 @@ The accepted workshop papers will be published in the ACM Digital Library.
 | 15:30 | Oral 3 |
 | 15:45 | Poster Session and tea break |
 
-##Invited Talks
+## Invited Talks
 [Benjamin Kuipers]("https://web.eecs.umich.edu/~kuipers/") is a Professor of Computer Science and Engineering at the University of Michigan. He was previously at the University of Texas at Austin, where he held an endowed professorship and served as Computer Science department chair. He received his B.A. from Swarthmore College, his Ph.D. from MIT, and he is a Fellow of AAAI, IEEE, and AAAS. His research in artificial intelligence and robotics has focused on the representation, learning, and use of foundational domains of commonsense knowledge, including knowledge of space,dynamical change, objects, and actions. He is currently investigating ethics as a foundational domain of knowledge for robots and other AIs that may act as members of human society. 
 
 Abstract: To apply trustworthy AI to multimedia computing, we must understand the roles and relations among ethics, trust, and cooperation in ensuring the well-being of our society. As robots and other intelligent systems (AIs) increasingly participate along with humans in human society, they must be worthy of trust by human users and bystanders.
