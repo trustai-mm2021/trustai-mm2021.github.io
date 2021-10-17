@@ -41,10 +41,10 @@ In this workshop, we aim to address the trustworthy issues of Multimedia Computi
   
   <div style="width:22.5%">
     <a href="https://ajmalsaeed.net/">
-    <img alt="Ajmal Mian" src="pics/ajmal2.png">
+    <img alt="Liefeng Bo" src="pics/DrBo.png">
     </a><br>
-    <a href="https://ajmalsaeed.net/">Ajmal Mian</a><br>
-    University of Western Australia
+    <a href="https://research.cs.washington.edu/istc/lfb/">Liefeng Bo</a><br>
+    JD.com
   </div>
 </div>
 
