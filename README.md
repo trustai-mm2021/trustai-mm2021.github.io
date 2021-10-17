@@ -41,7 +41,7 @@ In this workshop, we aim to address the trustworthy issues of Multimedia Computi
   
   <div style="width:22.5%">
     <a href="https://ajmalsaeed.net/">
-    <img alt="Liefeng Bo" src="pics/DrBo.png">
+    <img alt="Liefeng Bo" src="pics/Drbo2.png">
     </a><br>
     <a href="https://research.cs.washington.edu/istc/lfb/">Liefeng Bo</a><br>
     JD.com
