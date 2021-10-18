@@ -1,4 +1,3 @@
-# 1st International Workshop on Trustworthy AI for Multimedia Computing
 
 
 # Overview
