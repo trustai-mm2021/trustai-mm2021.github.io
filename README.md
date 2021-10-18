@@ -1,6 +1,4 @@
----
-layout: default
----
+
 
 # Overview
 <div style="text-align: justify">
