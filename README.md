@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Overview
 <div style="text-align: justify">
 In this workshop, we aim to address the trustworthy issues of Multimedia Computing. We aim to bring together researchers in the Trustworthy aspect of Multimedia Computing and facilitate discussions in injecting trusts into multimedia to develop trustworthy techniques that are reliable and acceptable to multimedia researchers and practitioners. Our scope is at the conjunction of multimedia and trustworthy AI, including Explainability, Robustness & Safety, Data Privacy, Accountability & Transparency, and Fairness.
