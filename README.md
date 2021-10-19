@@ -1,7 +1,7 @@
 
 # Overview
 <div style="text-align: justify">
-In this workshop, we aim to address the trustworthy issues of Multimedia Computing. We aim to bring together researchers in the Trustworthy aspect of Multimedia Computing and facilitate discussions in injecting trusts into multimedia to develop trustworthy techniques that are reliable and acceptable to multimedia researchers and practitioners. Our scope is at the conjunction of multimedia and trustworthy AI, including Explainability, Robustness & Safety, Data Privacy, Accountability & Transparency, and Fairness.
+It is our great pleasure to welcome you to the 1st International Workshop on Trustworthy AI for Multimedia Computing, being held at the 2021 ACM Multimedia Conference. Artificial Intelligence technologies have been widely adopted in various computer systems including many multimedia applications. Meanwhile, various trustworthy AI problems arising during the development and deployment of AI applications have been receiving increasing attention from both academia and industry. These trustworthy topics include model Robustness & Safety, Fairness, Data Privacy, Explainability, Accountability, and Transparency. The goal of this workshop is to bring researchers in multimedia computing and trustworthy AI area together to have an open discussion on how to develop trustworthy multimedia technologies. This year is our first attempt, and we received submissions from China, USA, Europe, and other countries or areas. We also encourage attendees to attend our invited talk presentations. These valuable and insightful talks will guide us to a better understanding of the trustworthy AI problem and thus do better research on intelligent multimedia computing. 
 </div>
 
 # Speakers
