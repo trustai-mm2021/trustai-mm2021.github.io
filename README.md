@@ -1,8 +1,4 @@
----
-layout: default
-title: Another page
-description: This is just another page
----
+
 
 # Overview
 <div style="text-align: justify">
