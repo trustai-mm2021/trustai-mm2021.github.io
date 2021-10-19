@@ -1,6 +1,10 @@
 theme: jekyll-theme-cayman
-title: Trustworthy AI for Multimedia Computing
-description: ACM Multimedia 2021 workshop, Oct 2021, Chengdu, China
+title: The 1st International Workshop on Trustworthy AI for Multimedia Computing
+description: 
+- in conjunction with ACM Multimedia 2021
+- 9:00AM - 15:30PM (Beijing Time), Oct 20, 2021, Chengdu, China
+- 'Onsite: Langbo Room B, The Langbo Chengdu'
+- 'Virtual: 864 1291 4191 (Zoom)'
 buttons:
   Overview: '#overview'
   Invited Talks: '#Invited-talks'
