@@ -68,7 +68,7 @@ Time: 13:30 - 14:00**
 
 ## Paper Presentation
 
-| Time &nbsp; &nbsp; | Paper |
+| Time &nbsp; &nbsp; &nbsp; &nbsp; | Paper |
 | ----- | -------|
 |14:00-14:20|An Emperical Study of Uncertainity Gap for Disentangling Factors|
 |14:20-14:40|Patch Replacement: A transformation based method to improve robustness against adversarial attack|
@@ -111,17 +111,18 @@ The accepted workshop papers will be published in the ACM Digital Library.
 | Time | Event |
 | ----- | -------|
 | 9:00 | Opening remarks |
-| 9:10 | Invited talk 1 |
+| 9:05 | Invited talk 1 |
 | 9:45 | Invited talk 2 |
-| 10:20 | Invited talk 3 |
+| 10:25 | Invited talk 3 |
 | 10:55 | Invited talk 4 |
-| 11:30 | Invited talk 5 |
+| 11:35 | Invited talk 5 |
 | 12:05 | Lunch break |
-| 14:00 | Invited talk 6 |
-| 14:30 | Oral 1 |
-| 15:00 | Oral 2 |
-| 15:30 | Oral 3 |
-| 15:45 | Poster Session and tea break |
+| 13:30 | Invited talk 6 |
+| 14:00 | Oral 1 |
+| 14:20 | Oral 2 |
+| 14:40 | Oral 3 |
+| 15:00 | Oral 4 |
+| 15:20 | Poster Session and tea break |
 
 ## Organizers
 <div style="display: flex">
