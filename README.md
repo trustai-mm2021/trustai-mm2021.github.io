@@ -4,6 +4,17 @@
 It is our great pleasure to welcome you to the 1st International Workshop on Trustworthy AI for Multimedia Computing, being held at the 2021 ACM Multimedia Conference. Artificial Intelligence technologies have been widely adopted in various computer systems including many multimedia applications. Meanwhile, various trustworthy AI problems arising during the development and deployment of AI applications have been receiving increasing attention from both academia and industry. These trustworthy topics include model Robustness & Safety, Fairness, Data Privacy, Explainability, Accountability, and Transparency. The goal of this workshop is to bring researchers in multimedia computing and trustworthy AI area together to have an open discussion on how to develop trustworthy multimedia technologies. This year is our first attempt, and we received submissions from China, USA, Europe, and other countries or areas. We also encourage attendees to attend our invited talk presentations. These valuable and insightful talks will guide us to a better understanding of the trustworthy AI problem and thus do better research on intelligent multimedia computing. 
 </div>
 
+# Invited Talks
+**Talk 1: Ethics and Trust for Robots and AIs
+Time: 09:05AM - 09:45AM**
+
+<img style="float: left;" src="pics/benjamin2.jpg" alt="Benjamin Kuipers" width="200"/>
+[Prof. Benjamin Kuipers]("https://web.eecs.umich.edu/~kuipers/") is a Professor of Computer Science and Engineering at the University of Michigan. He was previously at the University of Texas at Austin, where he held an endowed professorship and served as Computer Science department chair. He received his B.A. from Swarthmore College, his Ph.D. from MIT, and he is a Fellow of AAAI, IEEE, and AAAS. His research in artificial intelligence and robotics has focused on the representation, learning, and use of foundational domains of commonsense knowledge, including knowledge of space,dynamical change, objects, and actions. He is currently investigating ethics as a foundational domain of knowledge for robots and other AIs that may act as members of human society.
+
+**Abstract:** To apply trustworthy AI to multimedia computing, we must understand the roles and relations among ethics, trust, and cooperation in ensuring the well-being of our society. As robots and other intelligent systems (AIs) increasingly participate along with humans in human society, they must be worthy of trust by human users and bystanders.
+Since the world is effectively infinitely complex, efficiently making action decisions for humans or for robots requires simplified models. However, poorly chosen models can propose actions that lead to poor outcomes. 
+The Prisoner’s Dilemma shows how utility maximization with an overly-simple utility measure can lead to a poor outcome, while an improved utility measure gives a good result. In the Moral Machine experiment, an autonomous vehicle faces a “deadly dilemma” and tries to choose the lesser of two evils, while an improved decision model could avoid the dilemma in the first place. Trust plays an essential role in the well-being of society, but when trust is lost, it is lost quickly and recovers slowly, if at all. In certain cases, poor decision models can encourage the exploitation of trust. They could create an existential risk for our society, at a time when we face serious threats.
+
 # Speakers
 
 <div style="display: flex">
