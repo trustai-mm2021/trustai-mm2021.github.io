@@ -84,7 +84,7 @@ We believe the workshop will offer a timely collection of research updates to be
 - Paper submission: <strong>July 30th, 2021</strong>
 - Author Notification: <strong>August 26th, 2021</strong>
 - Camera-Ready: <strong>September 2nd, 2021</strong>
-- Workshop: <strong>October 19-20th, 2021</strong>
+- Workshop: <strong>October 20th, 2021</strong>
 
 All deadlines are at midnight(23:59) anywhere on Earth.
 
@@ -95,6 +95,13 @@ We use the same formatting template as ACM Multimedia 2021. Submissions can be o
 Use the following link: [https://cmt3.research.microsoft.com/ACMMM2021/](https://cmt3.research.microsoft.com/ACMMM2021/)
 Select the track: “1st International Workshop on Trustworthy AI for Multimedia Computing”. 
 The accepted workshop papers will be published in the ACM Digital Library.
+
+## Paper Presentation
+
+|14:00-14:20|An Emperical Study of Uncertainity Gap for Disentangling Factors|
+|14:20-14:40|Patch Replacement: A transformation based method to improve robustness against adversarial attack|
+|14:40-15:00|Dataset Diversity: Measuring and Mitigating Geographical Bias in Image Search and Retrieval|
+|15:00-15:20|Hierarchical Semantic Enhanced Directional Graph Network for Visual Commonsense Reasoning|
 
 ## Schedule
 
