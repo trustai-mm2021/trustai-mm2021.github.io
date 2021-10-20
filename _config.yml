@@ -8,7 +8,7 @@ description:
 - 'Virtual: 864 1291 4191 (Zoom)'
 buttons:
   Overview: '#overview'
-  Invited Talks: '#Invited-talks'
+  Invited Talks: '#invited-talks'
   Call for Contributions: '#call-for-contributions'
   Important Dates: '#important-dates'
 github:
