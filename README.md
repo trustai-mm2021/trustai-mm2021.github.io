@@ -68,7 +68,7 @@ Time: 13:30 - 14:00**
 
 ## Paper Presentation
 
-| Time | Paper |
+| <div style="width:290px">Time</div> | Paper |
 | ----- | -------|
 |14:00-14:20|An Emperical Study of Uncertainity Gap for Disentangling Factors|
 |14:20-14:40|Patch Replacement: A transformation based method to improve robustness against adversarial attack|
