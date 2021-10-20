@@ -68,9 +68,9 @@ Time: 13:30 - 14:00**
 
 ## Paper Presentation
 
-| Time | Paper |
+| Time &nbsp ;&nbsp; &nbsp;| Paper |
 | ----- | -------|
-|  14:00-14:20  |An Emperical Study of Uncertainity Gap for Disentangling Factors|
+|14:00-14:20|An Emperical Study of Uncertainity Gap for Disentangling Factors|
 |14:20-14:40|Patch Replacement: A transformation based method to improve robustness against adversarial attack|
 |14:40-15:00|Dataset Diversity: Measuring and Mitigating Geographical Bias in Image Search and Retrieval|
 |15:00-15:20|Hierarchical Semantic Enhanced Directional Graph Network for Visual Commonsense Reasoning|
