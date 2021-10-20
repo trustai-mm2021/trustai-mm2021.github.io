@@ -9,50 +9,66 @@ It is our great pleasure to welcome you to the 1st International Workshop on Tru
 Time: 09:05 - 09:45**
 
 <img style="float: left;margin-right: 7px;" src="pics/benjamin2.jpg" alt="Benjamin Kuipers" width="200"/>
+<div style="text-align: justify">
 [Prof. Benjamin Kuipers]("https://web.eecs.umich.edu/~kuipers/") is a Professor of Computer Science and Engineering at the University of Michigan. He was previously at the University of Texas at Austin, where he held an endowed professorship and served as Computer Science department chair. He received his B.A. from Swarthmore College, his Ph.D. from MIT, and he is a Fellow of AAAI, IEEE, and AAAS. His research in artificial intelligence and robotics has focused on the representation, learning, and use of foundational domains of commonsense knowledge, including knowledge of space,dynamical change, objects, and actions. He is currently investigating ethics as a foundational domain of knowledge for robots and other AIs that may act as members of human society.
-
+</div>
+<div style="text-align: justify">
 **Abstract:** To apply trustworthy AI to multimedia computing, we must understand the roles and relations among ethics, trust, and cooperation in ensuring the well-being of our society. As robots and other intelligent systems (AIs) increasingly participate along with humans in human society, they must be worthy of trust by human users and bystanders.
 Since the world is effectively infinitely complex, efficiently making action decisions for humans or for robots requires simplified models. However, poorly chosen models can propose actions that lead to poor outcomes. 
 The Prisoner’s Dilemma shows how utility maximization with an overly-simple utility measure can lead to a poor outcome, while an improved utility measure gives a good result. In the Moral Machine experiment, an autonomous vehicle faces a “deadly dilemma” and tries to choose the lesser of two evils, while an improved decision model could avoid the dilemma in the first place. Trust plays an essential role in the well-being of society, but when trust is lost, it is lost quickly and recovers slowly, if at all. In certain cases, poor decision models can encourage the exploitation of trust. They could create an existential risk for our society, at a time when we face serious threats.
+</div>
 
 **Talk 2: Trustworthy Machine Learning via Logic Inference \
 Time: 09:45 - 10:25**
 
-<img style="float: left;" src="pics/bo.png" alt="Bo Li" width="200"/>
+<img style="float: left;margin-right: 7px;" src="pics/bo.png" alt="Bo Li" width="200"/>
+<div style="text-align: justify">
 [Prof. Bo Li]("https://aisecure.github.io/") is an assistant professor in the department of Computer Science at University of Illinois at Urbana–Champaign, and the recipient of the Symantec Research Labs Fellowship, Rising Stars, MIT Technology Review TR-35 award, Intel Rising Star award, NSF CAREER Award, Research Awards from Tech companies such as Amazon, Facebook, Google, and IBM, and best paper awards in several machine learning and security conferences. Her research focuses on both theoretical and practical aspects of trustworthy machine learning, security, machine learning, privacy, and game theory. She has designed several scalable frameworks for robust machine learning and privacy preserving data publishing systems. Her work has been featured by major publications and media outlets such as Nature, Wired, Fortune, and New York Times.
-
+</div>
+<div style="text-align: justify">
 **Abstract:** Advances in machine learning have led to rapid and widespread deployment of learning based inference and decision making for safety-critical applications, such as autonomous driving and security diagnostics. Current machine learning systems, however, assume that training and test data follow the same, or similar, distributions, and do not consider active adversaries manipulating either distribution. Recent work has demonstrated that motivated adversaries can circumvent anomaly detection or other machine learning models at test time through evasion attacks, or can inject well-crafted malicious instances into training data to induce errors in inference time through poisoning attacks. In this talk, I will describe my recent research about security and privacy problems in machine learning systems. In particular, I will introduce several adversarial attacks in different domains, and discuss potential defensive approaches and principles, including game theoretic based and knowledge enabled robust learning paradigms, towards developing practical robust learning systems with robustness guarantees.
+</div>
 
 **Talk 3: Large Scale Vertical Federated Learning \
 Time: 10:25 - 10:55**
 
-<img style="float: left;" src="pics/Drbo2.png" alt="Liefeng Bo" width="200"/>
+<img style="float: left;margin-right: 7px;" src="pics/Drbo2.png" alt="Liefeng Bo" width="200"/>
+<div style="text-align: justify">
 [Dr. Leifeng Bo]("https://research.cs.washington.edu/istc/lfb/") is the Head of Silicon Valley R&D Center at JD Technology, leading a team to develop advanced AI technologies. He was a Principal Scientist at Amazon for building a grab-and-go shopping experience using computer vision, deep learning and sensor fusion technologies. He received his PhD from Xidian University in 2007, and was a postdoctoral researcher at TTIC and University of Washington, respectively. His research interests are in machine learning, deep learning, computer vision, robotics, and natural language processing. He won the National Excellent Doctoral Dissertation Award of China in 2010, and the Best Vision Paper Award in ICRA 2011.
-
+</div>
+<div style="text-align: justify">
 **Abstract:** In this talk, we will share our experiences in developing FedLearn, a large-scale vertical federated learning framework that focuses on scalability over vertically partitioned data sets via both algorithmic and engineering optimizations. We start by adopting a distributed framework for Federated Random Forest, which parallelly constructs classification or regression trees over multiple subsets of randomly selected samples and features on clusters of machines. Federated Random Forest relies on time-costly homomorphic encryption to protect transmitted data, and we further boost its efficiency by homomorphic encryption acceleration, high-performance computing, message compression, and asynchronous transmission. Secondly, we develop Federated Kernel Learning that introduces efficient kernel-based gradient approximations to protect transmitted data rather than sticking with homomorphic encryption. We demonstrate kernel-based approximations coordinate with parallel computing and scale well with data size. FedLearn provides a series of reliable optimizations to vertical federated learning algorithms and makes them highly scalable and efficient for industrial applications. We expect FedLearn to help researchers and developers with practical solutions on large-scale vertically federated learning scenarios.
+</div>
 
 **Talk 4: De-biasing algorithms for images seen and unseen \
 Time: 10:55 - 11:35**
 
-<img style="float: left;" src="pics/cees_3.jpg" alt="Cees Snoek" width="200"/>
+<img style="float: left;margin-right: 7px;" src="pics/cees_3.jpg" alt="Cees Snoek" width="200"/>
+<div style="text-align: justify">
 **Abstract:** It is well known that datasets in multimedia computing have a strong built-in bias as they can represent only a narrow view of the real world. Even though addressing biases from the start of the dataset creation is highly recommended, models learned from such data can still be affected by spurious correlations and produce unfair decisions. In this talk I present two algorithms that try to mitigate this bias for image classification. For seen images we identify a bias direction in the feature space that corresponds to the main direction of maximum variance of class-specific prototypes. In light of this, we propose to learn to map inputs to domain-specific embeddings, where each value of a protected attribute has its own domain. For unseen images, in a generalized zero-shot learning setting, we propose a bias-aware learner to map inputs to a semantic embedding space. During training, the model learns to regress to real-valued class prototypes in the embedding space with temperature scaling, while a margin-based bidirectional entropy term regularizes seen and unseen probabilities. Experiments demonstrate the benefits of the proposed de-biased classifiers in multi-label and zero-label settings, as well as their ability to improve fairness of the predictions.
-
+  </div>
+  
 **Talk 5: Trustworthy Visual Understanding: Generic Representation Learning and Explainable Interpretation  \
 Time: 11:35 - 12:15**
 
-<img style="float: left;" src="pics/ting.jpg" alt="Ting Yao" width="200"/>
+<img style="float: left;margin-right: 7px;" src="pics/ting.jpg" alt="Ting Yao" width="200"/>
+  <div style="text-align: justify">
 [Dr. Ting Yao]("http://tingyao.deepfun.club/") is currently a Principal Researcher in Vision and Multimedia Lab at JD AI Research, Beijing, China. His research interests include video understanding, vision and language, and deep learning. Prior to joining JD.com, he was a Researcher with Microsoft Research Asia, Beijing, China. Ting is the lead architect of a few top-performing multimedia analytic systems in international benchmark competitions such as ActivityNet Large Scale Activity Recognition Challenge 2019-2016, Visual Domain Adaptation Challenge 2019-2017, and COCO Image Captioning Challenge. He is also the lead organizer of MSR Video to Language Challenge in ACM Multimedia 2017 & 2016, and built MSR-VTT, a large-scale video to text dataset that is widely used worldwide. His works have led to many awards, including ACM SIGMM Outstanding Ph.D. Thesis Award 2015, ACM SIGMM Rising Star Award 2019, and IEEE TCMC Rising Star Award 2019. He is an Associate Editor of IEEE Trans. on Multimedia.
-
+</div>
+<div style="text-align: justify">
 **Abstract:** One important factor credited for the remarkable developments in computer vision today is the emergence of deep neural networks. Despite having encouraging performances, these approaches become increasingly opaque to the end users and are brittle against real-world deployment of intelligent systems. As such, trustworthy AI is gaining intensive traction recently and develops AI systems which can be certified to be trustworthy and robust. In this talk, we will describe our recent works in three important aspects of AI trustworthiness: 1) Generalization – aim for learning generic visual representation by self-supervised learning; 2) Generalization – pre-train a universal encoder-decoder structure for cross-modal tasks; 3) Explainability – design explainable representations/models for interpreting images/videos. Moreover, we will conclude with some future potentials.
+</div>
 
 **Talk 6: Towards Efficient and Explainable End-to-End Reinforcement Driving Policy Learning  \
 Time: 13:30 - 14:00**
 
-<img style="float: left;" src="pics/fisher_yu.jpeg" alt="Fisher Yu" width="200"/>
+<img style="float: left;margin-right: 7px;" src="pics/fisher_yu.jpeg" alt="Fisher Yu" width="200"/>
+<div style="text-align: justify">
 [Fisher Yu]("https://www.yf.io/") is an Assistant Professor at ETH Zürich in Switzerland. He obtained his Ph.D. degree from Princeton University and became a postdoctoral researcher at UC Berkeley. He is now leading the Visual Intelligence and Systems (VIS) group, part of Computer Vision Lab (CVL), at ETH Zürich. His goal is to build perceptual systems capable of performing complex tasks in complex environments. His research is at the junction of machine learning, computer vision, and robotics. He currently works on closing the loop between vision and action. His works on image representation learning and large-scale datasets, especially dilated convolutions and the BDD100K dataset, have become essential parts of computer vision research. 
-
+</div>
+<div style="text-align: justify">
 **Abstract:** End-to-end driving policy learning has always been an attractive intellectual topic among AI research researchers. Recent advances in this area shed light on how we may achieve it in real systems. In this talk, I will briefly review the current promising methods. I will then introduce our recent work on learning an effective expert to teach an imitation policy learning agent, which can achieve outstanding performance for driving in a simulation environment. Further, I will discuss making the existing policy learning method more explainable and data-efficient from a reinforcement learning perspective. Our works draw inspiration from the traditional model predictive control methods. I hope those ideas can inspire more researchers to study end-to-end learning systems.
-
+</div>
 
 
 
