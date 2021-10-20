@@ -66,6 +66,14 @@ Time: 13:30 - 14:00**
 
 **Abstract:** End-to-end driving policy learning has always been an attractive intellectual topic among AI research researchers. Recent advances in this area shed light on how we may achieve it in real systems. In this talk, I will briefly review the current promising methods. I will then introduce our recent work on learning an effective expert to teach an imitation policy learning agent, which can achieve outstanding performance for driving in a simulation environment. Further, I will discuss making the existing policy learning method more explainable and data-efficient from a reinforcement learning perspective. Our works draw inspiration from the traditional model predictive control methods. I hope those ideas can inspire more researchers to study end-to-end learning systems.
 
+## Paper Presentation
+
+| Time | Paper |
+| ----- | -------|
+|14:00-14:20|An Emperical Study of Uncertainity Gap for Disentangling Factors|
+|14:20-14:40|Patch Replacement: A transformation based method to improve robustness against adversarial attack|
+|14:40-15:00|Dataset Diversity: Measuring and Mitigating Geographical Bias in Image Search and Retrieval|
+|15:00-15:20|Hierarchical Semantic Enhanced Directional Graph Network for Visual Commonsense Reasoning|
 
 ## Call for Contributions
 
@@ -96,12 +104,7 @@ Use the following link: [https://cmt3.research.microsoft.com/ACMMM2021/](https:/
 Select the track: “1st International Workshop on Trustworthy AI for Multimedia Computing”. 
 The accepted workshop papers will be published in the ACM Digital Library.
 
-## Paper Presentation
 
-|14:00-14:20|An Emperical Study of Uncertainity Gap for Disentangling Factors|
-|14:20-14:40|Patch Replacement: A transformation based method to improve robustness against adversarial attack|
-|14:40-15:00|Dataset Diversity: Measuring and Mitigating Geographical Bias in Image Search and Retrieval|
-|15:00-15:20|Hierarchical Semantic Enhanced Directional Graph Network for Visual Commonsense Reasoning|
 
 ## Schedule
 
