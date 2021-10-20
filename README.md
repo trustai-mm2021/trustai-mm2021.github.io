@@ -5,7 +5,7 @@ It is our great pleasure to welcome you to the 1st International Workshop on Tru
 </div>
 
 # Invited Talks
-**Talk 1: Ethics and Trust for Robots and AIs
+**Talk 1: Ethics and Trust for Robots and AIs \
 Time: 09:05AM - 09:45AM**
 
 <img style="float: left;" src="pics/benjamin2.jpg" alt="Benjamin Kuipers" width="200"/>
